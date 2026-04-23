@@ -1,0 +1,11 @@
+import "../css/favorites.css";
+
+function Favorites() {
+  return (
+    <div className="favorites-empty">
+      <h2>No Favorite Movies Yet</h2>
+      <p>Start adding Movies to your favorites and they'll appear here</p>
+    </div>
+  );
+}
+export default Favorites;
