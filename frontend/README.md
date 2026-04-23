@@ -5,6 +5,7 @@ A React learning project showcasing a movie discovery application with routing, 
 ## 🎬 Project Overview
 
 This application is a movie browser that allows users to:
+
 - Browse movies on the home page
 - View detailed movie cards with information
 - Mark movies as favorites
@@ -51,23 +52,27 @@ frontend/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/daikictrl/Learning_React.git
 cd Learning_React/frontend
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Install React Router (if not already installed):
+
 ```bash
 npm install react-router-dom
 ```
@@ -75,6 +80,7 @@ npm install react-router-dom
 ### Development Server
 
 Start the development server with hot module reloading:
+
 ```bash
 npm run dev
 ```
@@ -102,6 +108,7 @@ npm run lint
 ## 📚 Learning Concepts
 
 This project demonstrates:
+
 - React functional components with hooks (useState, useEffect)
 - React Router for multi-page navigation
 - Component props and state management
