@@ -41,6 +41,7 @@ function Home() {
     } finally {
       setLoading(false);
     }
+    setSearchQuery(searchQuery);
   };
 
   return (
